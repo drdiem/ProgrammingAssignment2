@@ -1,5 +1,7 @@
-## Put comments here that give an overall description of what your
-## functions do
+# Solution to programming assignment 2 from the Coursera R programming course.
+# Author: Dimitri Hendriks
+# Date: 2015-11-17
+#
 # Matrix inversion is usually a costly computation 
 # and there may be some benefit to caching the inverse of a matrix 
 # rather than computing it repeatedly. 
